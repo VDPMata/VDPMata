@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Nicolas]
+# ¡Hola! Soy Nicolas
 
 Soy un apasionado del desarrollo de software con experiencia en varios lenguajes y tecnologías. Me especializo en el desarrollo front-end y back-end, así como en la automatización de pruebas de calidad. Aquí están algunas de mis habilidades clave:
 
