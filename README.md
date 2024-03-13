@@ -14,7 +14,7 @@ Soy un apasionado del desarrollo de software con experiencia en varios lenguajes
 
 ## Educación
 
-- **En formacion autodidacta** - (Año de Graduación? Quien arranca a estudiar nunca termina)
+- **En formacion autodidacta** - Quien arranca a estudiar nunca termina
 
 
 ## Enlaces
